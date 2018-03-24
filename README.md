@@ -20,4 +20,3 @@ just open the directory of project and open index.html file
 # To make this web page watch this playlist
 https://www.youtube.com/playlist?list=PLDoPjvoNmBAzVaRnCYoklHqz01jve8ZWv
 
-# That`s it
